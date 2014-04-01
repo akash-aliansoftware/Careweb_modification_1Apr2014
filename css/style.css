@@ -167,12 +167,19 @@ text-align: center;
 {
 	color:#fff;
 }
+ .footer a
+{
+	color:#fff;
+}
 .footer {
 	text-align: center;
 	position: relative;
 	padding-top: 15px;
+padding-bottom: 10px;
+color:#fff;
 	font-family: 'Gudea', sans-serif;
 	font-size: 20px;
+	background-color:#0174b7 ;
 }
 .header .content {
 	max-width:668px;
